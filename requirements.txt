@@ -1,0 +1,11 @@
+torch>=2.0.0
+torchvision>=0.15.0
+timm>=0.9.0
+matplotlib
+seaborn
+pandas
+numpy
+scikit-learn
+tqdm
+Pillow
+ipykernel
