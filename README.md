@@ -54,7 +54,7 @@ The dataset used is the **Biodegradable Fabrics Dataset** from Kaggle/IEEE.
 
 | Metric | Score |
 | :--- | :--- |
-| **Validation Accuracy** | **98.89%** |
+| **Validation Accuracy** | **99.44%** |
 | **Training Loss** | 0.02 |
 
 *The model successfully differentiates between visually similar textures (e.g., Silk vs. Cotton) thanks to the patch-based strategy.*
